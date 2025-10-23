@@ -1,1 +1,1 @@
-print('this is a new branch')
+print('line from a nd b are resolved')

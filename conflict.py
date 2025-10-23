@@ -1,0 +1,1 @@
+print('line from both A and B resolved')
