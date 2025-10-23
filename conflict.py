@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-print('Line from branch A')
-=======
-print('Line from branch B')
->>>>>>> branchB
+print('line from both A and B resolved')
